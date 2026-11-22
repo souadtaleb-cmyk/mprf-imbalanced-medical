@@ -48,4 +48,4 @@ Environment used for the reported results: Google Colab, Python 3.13, scikit-lea
 
 Taleb Zouggar, S., Merzoug, H. and Adla, A. *Towards Compact and Interpretable Random Forests for Imbalanced Medical Classification: Application to HPV-Related Cervical Cancer Detection.* International Journal of Data Mining, Modelling and Management (accepted; submission IJDMMM-342531).
 
-License: to be chosen by the authors before the repository is made public.
+License: MIT (see the `LICENSE` file).
